@@ -1,0 +1,6 @@
+{
+  "name": "AI VIDEO SEO MASTER",
+  "description": "All-in-One AI Video Optimization Tool for YouTube, Facebook, and TikTok content creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
